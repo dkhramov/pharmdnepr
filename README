@@ -1,0 +1,1 @@
+Scrapy-based spider that crawls the Dnipropetrovs'k, Ukraine web sites and stores data into csv-files.
